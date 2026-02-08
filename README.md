@@ -1,2 +1,6 @@
-# my-learning-progress
-This is my personal learning progress, What i have done for it, to make better performance learning methods
+Pengalaman belajar di Dicoding
+
+8 Februari 2026
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
